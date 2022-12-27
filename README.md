@@ -12,7 +12,7 @@ Farmers face economic loss due and crop waste due to various diseases in potato 
 
 Built a website that will enable farmers to find out whether a potato plant has a disease or not by uploading a photo to the website.
 
--Collected the dataset(2152 Images) from kaggle website
+- Collected the dataset(2152 Images) from kaggle website
 - Used the dataset to train the model 50 times with the help of Convolutional Neural Network and Tensorflow with Maxpooling of size 2 and Softmax activation in the output layer
 - Achieved an accuracy of 0.974 and a loss value:0.44
 - Used MatplotLib for data visualization 
